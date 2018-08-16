@@ -1,0 +1,13 @@
+{
+    "name": "edudobay/redis-json-session-example",
+    "type": "project",
+    "require": {
+        "uma/redis-session-handler": "^0.9.6"
+    },
+    "authors": [
+        {
+            "name": "Eduardo Dobay",
+            "email": "edudobay@gmail.com"
+        }
+    ]
+}
